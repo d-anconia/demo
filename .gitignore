@@ -1,0 +1,10 @@
+*.class
+*.swp
+*.out
+/.idea
+.svn/*
+*.iml
+/target
+/out
+/log
+oracle2postgres.txt
